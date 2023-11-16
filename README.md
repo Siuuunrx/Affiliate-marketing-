@@ -35,12 +35,12 @@
     <div class="product">
       <h2>Product 1</h2>
       <p>Description of Product 1.</p>
-      <a href="your_affiliate_link_for_product_1" target="_blank">Buy Now</a>
+      <a href="https://fktr.in/5ySn67H" target="_blank">Buy Now</a>
     </div>
     <div class="product">
       <h2>Product 2</h2>
       <p>Description of Product 2.</p>
-      <a href="your_affiliate_link_for_product_2" target="_blank">Buy Now</a>
+      <a href="[your_affiliate_link_for_product_2](https://fktr.in/5ySn67H)" target="_blank">Buy Now</a>
     </div>
     <!-- Add more products as needed -->
   </main>
